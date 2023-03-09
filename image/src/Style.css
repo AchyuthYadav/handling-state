@@ -1,0 +1,16 @@
+button {
+    padding: 0.5rem;
+    border: 0.1rem;
+    background-color: brown;
+    margin-right: 1rem;
+}
+
+img {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.active {
+    background-color: black;
+    color: aliceblue;
+}
